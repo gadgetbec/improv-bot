@@ -12,8 +12,8 @@ Hardware: Intel NUC5CPYH, Xbox 360 Kinect Sensor, AC Adapter Power Supply Cable
 + Install Processing
 
 + Install Oracle Java 8
-[http://www.webupd8.org/2012/09/install-oracle-java-8-in-ubuntu-via-ppa.html][WebUPD8.org]
+[WebUPD8.org][1]
 
 + Install OpenNI Library (TBD)
 
-
+[1]:http://www.webupd8.org/2012/09/install-oracle-java-8-in-ubuntu-via-ppa.html
