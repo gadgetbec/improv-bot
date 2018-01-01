@@ -48,3 +48,4 @@ To Install, navigate to the respective directory and run the command:
 [4]:https://developer.ubuntu.com/core/get-started/intel-nuc 
 [5]:https://tutorials.ubuntu.com/tutorial/tutorial-create-a-usb-stick-on-macos#0
 [6]:http://releases.ubuntu.com/16.04.2/ubuntu-16.04.2-desktop-amd64.iso
+[7]:http://openni.ru/openni-sdk/openni-sdk-history-2/index.html
