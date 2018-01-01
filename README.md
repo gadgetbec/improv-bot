@@ -42,6 +42,8 @@ For Linux, you will need to install the latest LibUSB.
 1) Run: sudo apt-get install libusb-1.0-0-dev
 2) Run: sudo apt-get install freeglut3-dev
 
+The instructions for Setting up Kinect for programming in Linux part 1 (https://www.kdab.com/setting-up-kinect-for-programming-in-linux-part-1/) may also help.
+
 [1]:http://www.webupd8.org/2012/09/install-oracle-java-8-in-ubuntu-via-ppa.html
 [2]:https://openkinect.org/wiki/Getting_Started#Ubuntu.2FDebian
 [3]:https://processing.org/download/
